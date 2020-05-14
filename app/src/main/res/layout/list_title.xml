@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingEnd="12.5dp"
+        android:paddingStart="12.5dp"
+        android:text="鲜生精选"
+        android:gravity="left|center"
+        android:textColor="#1c1c1c"
+        android:textSize="20sp" />
+</LinearLayout>
